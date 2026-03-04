@@ -18,4 +18,5 @@
 ## 致谢
 
 特别感谢 JetBrains 慷慨提供许可证，支持我开展本项目及其他开源项目的工作。
-[![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/CarmJos/CWorks)
+
+[![](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/?from=https://github.com/carm-outsource/web-courseworks)
