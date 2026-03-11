@@ -1,0 +1,47 @@
+.header {
+
+    width: 1200px;
+    height: 280px;
+    border: 1px solid red;
+    margin: auto;
+
+}
+
+.navigator {
+
+    width: 1200px;
+    height: 50px;
+    border: 1px solid red;
+    margin: auto;
+    background-color: indianred;
+
+}
+
+.navigator-item {
+    width: 200px;
+    height: 50px;
+    border: 3px solid blueviolet;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+
+.main {
+
+    width: 1200px;
+    background-color: lightgray;
+
+    margin: auto;
+
+}
+
+.main .nav-position {
+    height: 20px;
+    margin: 10px;
+}
+
+.main .nav-position a{
+    font-size: 20px;
+    color: cadetblue;
+    text-decoration: none;
+}
